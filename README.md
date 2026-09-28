@@ -1,17 +1,6 @@
 # Taller Practico de Alto Nivel: Programacion Funcional en Python
 
-**Diseno de Arquitecturas Funcionales: HOFs, Closures Avanzados y Composicion con Lambdas**
-
-| | |
-|---|---|
-| **Estudiante** | _Tu nombre completo_ |
-| **Institucion** | _Nombre de tu institucion_ |
-| **Materia** | _Nombre de la materia_ |
-| **Docente** | _Nombre del docente_ |
-| **Fecha** | _dd/mm/aaaa_ |
-
----
-
+**Diseno de Arquitecturas Funcionales: HOFs, Closures Avanzados y Composicion con Lambdas*
 ## Descripcion
 
 Este repositorio contiene la solucion de los **20 ejercicios** del taller, organizados en 4 niveles de dificultad. Todos los ejercicios integran los patrones funcionales centrales del taller:
@@ -140,4 +129,4 @@ Ejercicio 18: hola_mundo_funcional
 
 ## Autor
 
-_Tu nombre_ - _tu correo o usuario de GitHub_
+Tomalà Tumbaco Mike Neiman
